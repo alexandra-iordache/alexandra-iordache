@@ -1,6 +1,6 @@
 # Alexandra Iordache
 
-**Computer Science graduate (First Class Honours, Royal Holloway) focused on cyber security.**
+**Computer Science graduate (First Class Honours, Royal Holloway) software engineer with a security lean.**
 
 I am interested in how systems break and how to stop them. My final year dissertation looked at the security of workflow scheduling and access control, and I have a published book chapter analysing a real corporate data breach. Alongside my degree I founded and shipped Plattr, an augmented reality menu product for restaurants.
 
